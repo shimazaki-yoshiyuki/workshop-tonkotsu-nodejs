@@ -1,6 +1,6 @@
 ### Welcome!
 
-test
+lesson3
 
 This is the NodeJS version of our "Tonkotsu" workshop webapp. The codebase is pretty simple: it's a NodeJS app that will connect to GitHub's [Octocat API endpoint](https://api.github.com/octocat) and return the Zen quote of the day. E.g.:
 
