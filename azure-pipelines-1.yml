@@ -6,7 +6,7 @@
 trigger:
   branches:
     exclude:
-      master
+      - master
 
 
 pool:
