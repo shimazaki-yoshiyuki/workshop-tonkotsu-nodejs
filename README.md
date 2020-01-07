@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/ssssssssssshima/b0f72625-2cd0-4cde-8bed-1de18eb3a5c3/72280cec-5a0e-4cce-9702-38ed9b8a9afd/_apis/work/boardbadge/0b75ed1f-5766-4442-9c3f-0a3e59ab6bd3)](https://dev.azure.com/ssssssssssshima/b0f72625-2cd0-4cde-8bed-1de18eb3a5c3/_boards/board/t/72280cec-5a0e-4cce-9702-38ed9b8a9afd/Microsoft.RequirementCategory)
 ### Welcome!
 
 lesson3
